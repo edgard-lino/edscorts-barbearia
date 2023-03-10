@@ -1,0 +1,11 @@
+:root {
+  --fonte-titulo: 'Bree Serif', serif;
+  --fonte-texto: 'Roboto', sans-serif;
+
+  --branco: white;
+  --bege: #BDB4A2;
+  --bege-escuro: #9b9485;
+  --preto-sombra: rgba(0, 0, 0, 0.336);
+  --verde: #5C7078;
+  --vermelho: #c4534b;
+}

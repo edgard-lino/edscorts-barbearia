@@ -1,0 +1,32 @@
+.titulo {
+  font-family: var(--fonte-titulo);
+  color: var(--vermelho);
+  font-size: 2rem;
+  text-align: center;
+  padding: 3rem 0 2rem;
+}
+
+.texto {
+  font-family: var(--fonte-texto);
+  font-size: 1.1rem;
+  font-weight: 300;
+  line-height: 1.5rem;
+  
+}
+
+.texto__italico {
+  font-style: italic;
+  padding: 1.1rem 0;
+}
+
+.texto__bold {
+  font-weight: 500;
+}
+
+@media screen and (max-width: 500px) {
+  .titulo {
+    width: 80vw;
+    margin: auto;
+  }
+  
+}
